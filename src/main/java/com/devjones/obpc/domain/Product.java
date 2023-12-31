@@ -11,7 +11,7 @@ public class Product {
 		return total;
 	}
 	
-	public void setTotal(int total) {
+	public synchronized void setTotal(int total) {
 		this.total += total;
 	}
 }
