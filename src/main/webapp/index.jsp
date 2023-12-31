@@ -10,7 +10,8 @@
 <body>
 
 ☆ 제품을 입력해주세요 ☆<br>
-<textarea rows="15" cols="50" id="query"></textarea><br>
+<textarea rows="15" cols="50" id="command"></textarea><br>
+<button id="query">최저가</button><br>
 ↓↓↓↓↓↓↓↓결과↓↓↓↓↓↓↓↓<br>
 <textarea rows="15" cols="50" id="result"></textarea>
 
@@ -19,10 +20,10 @@
 
 <script>
 
-$('#query').keyup(function() {
-	console.log($(this).val());
+$('#query').click(function() {
+// 	console.log($(this).val());
 	
-	valueParser($(this).val());
+	valueParser($('#command').val());
 });
 
 function valueParser(_val) {
