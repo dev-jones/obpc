@@ -16,6 +16,22 @@ public class FutureTestMain {
 			"갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
 			"AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
 			"ASRock B650M-HDV/M.2 대원씨티에스",
+			"삼성전자 DDR5-5600 (16GB) PC5-44800",
+			"갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+			"AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+			"ASRock B650M-HDV/M.2 대원씨티에스",
+			"삼성전자 DDR5-5600 (16GB) PC5-44800",
+			"갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+			"AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+			"ASRock B650M-HDV/M.2 대원씨티에스",
+			"삼성전자 DDR5-5600 (16GB) PC5-44800",
+			"갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+			"AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+			"ASRock B650M-HDV/M.2 대원씨티에스",
+			"삼성전자 DDR5-5600 (16GB) PC5-44800",
+			"갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
+			"AMD 라이젠5-5세대 7500F (라파엘) (멀티팩(정품))",
+			"ASRock B650M-HDV/M.2 대원씨티에스",
 			"삼성전자 DDR5-5600 (16GB) PC5-44800"
 		};
 
