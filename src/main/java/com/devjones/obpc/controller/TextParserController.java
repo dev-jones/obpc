@@ -31,7 +31,11 @@ public class TextParserController extends HttpServlet {
 			ParserThread pt = new ParserThread(query[i], prod);
 			Thread t = new Thread(pt);
 			t.start();
-			
+//			try {
+//				t.join();
+//			} catch (InterruptedException e) {
+//				e.printStackTrace();
+//			}
 			
 			result = pt.getProd().getTotal();
 		}
